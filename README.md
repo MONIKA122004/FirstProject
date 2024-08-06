@@ -1,4 +1,4 @@
-# FirstProject
+# Real Estate Price Prediction Using Machine Learning 
 This machine learning project is designed to give a comprehensive understanding of how real-world machine learning problems are tackled. The project is aimed at helping learners grasp the concepts of machine learning through a practical example involving a real estate company.
 
 Project Overview
